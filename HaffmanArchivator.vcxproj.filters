@@ -23,5 +23,8 @@
     <ClInclude Include="BitSequence.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="huffman.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
