@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HaffmanArchivator", "HaffmanArchivator.vcxproj", "{FBC3A32F-C7E9-4D0C-A912-B3633F680647}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Debug|x64.ActiveCfg = Debug|x64
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Debug|x64.Build.0 = Debug|x64
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Debug|x86.ActiveCfg = Debug|Win32
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Debug|x86.Build.0 = Debug|Win32
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Release|x64.ActiveCfg = Release|x64
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Release|x64.Build.0 = Release|x64
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Release|x86.ActiveCfg = Release|Win32
+		{FBC3A32F-C7E9-4D0C-A912-B3633F680647}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87D9CA87-B350-4D54-A811-F5D40CEEC12D}
+	EndGlobalSection
+EndGlobal
